@@ -1,37 +1,31 @@
 # 🎨 Tailwind Treasury
 
-一个精心收集的 Tailwind CSS 组件库，所有组件经过测试，完美适配 tailwindcss4.0,帮助您快速构建漂亮的现代用户界面。
+[![中文文档](https://img.shields.io/badge/docs-中文版-yellow)](./docs/README.zh-CN.md)
+A carefully curated collection of Tailwind CSS components, all tested and perfectly compatible with tailwindcss4.0, helping you quickly build beautiful modern user interfaces.
 
-## ✨ 核心优势
+## ✨ Key Features
 
-- 🚀 **500+ 精心打磨的 Tailwind 组件** - 覆盖所有常见 UI 场景
-- ⚡ **零依赖、开箱即用** - 纯 HTML 实现，无需额外配置
-- 🌗 **完美支持深色模式** - 自动适配系统主题偏好
-- 📱 **全响应式设计** - 从手机到 4K 屏幕都能完美呈现
-- 🗂 **结构化分类** - 按功能清晰组织，快速定位所需组件
+- 📦 **55+ component categories** - Covering all common UI scenarios
+- 🚀 **500+ meticulously crafted Tailwind components** - Collecting high-quality UI snippets from community contributions
+- ⚡ **Zero dependencies, ready to use** - Pure HTML implementation, no additional configuration required
+- 🌗 **Perfect dark mode support** - Automatically adapts to system theme preferences
+- 📱 **Fully responsive design** - Perfect display from mobile to 4K screens
+- 🗂 **Structured categorization** - Clearly organized by functionality for quick component location
 
-## 📦 组件分类
+## 🚀 Quick Start
 
-- **导航**: 导航栏、面包屑、侧边栏等
-- **表单**: 输入框、选择框、复选框等
-- **展示**: 卡片、表格、时间线等
-- **反馈**: 警告框、模态框、通知等
-- **布局**: 分隔线、网格、页脚等
-
-## 🚀 快速开始
-
-1. 克隆仓库:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/your-repo/tailwind-treasury.git
 ```
 
-2. 复制需要的组件代码到您的项目
+2. Copy the needed component code to your project
 
-## 🤝 贡献指南
+## 🤝 Contribution Guide
 
-欢迎提交 Pull Request 来添加新组件或改进现有组件！
+Welcome to submit Pull Requests to add new components or improve existing ones!
 
-## 📄 许可证
+## 📄 License
 
-MIT License - 自由使用和修改
+MIT License - Free to use and modify
