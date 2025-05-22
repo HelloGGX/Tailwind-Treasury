@@ -1,4 +1,4 @@
-![UI Preview](https://raw.githubusercontent.com/HelloGGX/Tailwind-Treasury/main/docs/UI.jpg)
+<img src="https://raw.githubusercontent.com/HelloGGX/Tailwind-Treasury/main/docs/UI.jpg" width="400" height="300">
 
 # 🎨 Tailwind Treasury [![中文文档](https://img.shields.io/badge/docs-中文版-yellow)](./docs/README.zh-CN.md)
 
