@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/HelloGGX/Tailwind-Treasury/main/docs/UI.webp">
 
-# 🎨 Tailwind Treasury [![中文文档](https://img.shields.io/badge/docs-中文版-yellow)](./README.zh-CN.md)
+# 🎨 Tailwind Treasury [![中文文档](https://img.shields.io/badge/docs-中文版-yellow)](./docs/README.zh-CN.md)
 
 A carefully curated collection of Tailwind CSS components, all tested and perfectly compatible with tailwindcss4.0, helping you quickly build beautiful modern user interfaces.
 
