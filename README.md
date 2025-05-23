@@ -7,7 +7,7 @@ A carefully curated collection of Tailwind CSS components, all tested and perfec
 ## ✨ Key Features
 
 - 📦 **55+ component categories** - Covering all common UI scenarios
-- 🚀 **500+ meticulously crafted Tailwind components** - Collecting high-quality UI snippets from community contributions
+- 🚀 **320+ meticulously crafted Tailwind components** - Collecting high-quality UI snippets from community contributions
 - ⚡ **Zero dependencies, ready to use** - Pure HTML implementation, no additional configuration required
 - 🌗 **Perfect dark mode support** - Automatically adapts to system theme preferences
 - 📱 **Fully responsive design** - Perfect display from mobile to 4K screens
